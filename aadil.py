@@ -94,7 +94,7 @@ print  """
 \033[1;95m┃┏┓┃┏┓┫┃┃┃
 \033[1;95m┗┛┗┻┛┗┻┻┻┛
 
-   \033[1;92m███████▒▒Welcome To Arman.creations▒▒████████
+   \033[1;92m███████▒▒Welcome To A.CREATIONS ▒▒████████
 \033[1;95m♡╭──────────•◈•──────────╮♡\033[1;96mA.Creations\033[1;95m♡╭───•◈•───╮♡
 \033[1;94mAuthor\033[1;91m: \033[1;91mAadil_001
 \033[1;94mA.AKM\033[1;91m: \033[1;91▒▓██████████████]99.9
@@ -114,7 +114,7 @@ CorrectPassword = "Aadil"
 loop = 'true'
 while (loop == 'true'):
     username = raw_input("\033[1;91m📋 \x1b[1;91mTool Username \x1b[1;91m»» \x1b[1;93m")
-    if (username == Correctusername):
+    if (username == CorrectUsername):
     	password = raw_input("\033[1;94m🔑 \x1b[1;91mTool Password \x1b[1;91m»» \x1b[1;92m")
         if (password == CorrectPassword):
             print "Logged in successfully as " + username #Dev:AKM_hacker
